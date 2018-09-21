@@ -1,0 +1,5 @@
+In this class-- created 3 packages
+
+1. for data driven test--WedDriver setup, @Test mathod for locators with passing parameters, @DataProvider to get data from TestUtil class and then passsing to test method
+2. excel utility--Generic created class Xls_Reader where all excel function are written and TestUtil class where logic is written to retrive data from excel to class
+3. excel data--- contains excel file .xlsx
